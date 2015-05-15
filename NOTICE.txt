@@ -1,0 +1,9 @@
+Portions under lib/states.py:
+  Copyright (c) 2012 NTT DOCOMO, INC.
+  Copyright 2010 OpenStack Foundation
+
+Portions under lib/agent_client.py:
+  Copyright 2014 Rackspace, Inc.
+
+Portions under lib/ircbot.py:
+  Copyright (c) Twisted Matrix Laboratories.
